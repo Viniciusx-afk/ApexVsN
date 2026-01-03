@@ -6,7 +6,7 @@ Welcome to my personal portfolio! Here you'll find information about my journey,
 
 ## 📖 About Me
 
-My name is Vinicius and I am a technology enthusiast focused on Computer Networks and Cybersecurity. I currently work as an Infrastructure Analyst with a focus on networks. I am specializing and studying to obtain CCNA certification. In this repository, I will publish some of the network labs I perform during my studies, as well as some cybersecurity labs that I intend to develop and study.
+My name is Vinicius, and I am a technology enthusiast focused on computer networks and cybersecurity. I currently work as an infrastructure analyst focused on networks. I am specializing and studying to obtain CCNA certification. Here, I will publish some of the network labs I perform during my studies, as well as some cybersecurity labs I intend to develop and study.
 
 ---
 
