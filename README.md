@@ -6,7 +6,7 @@ Welcome to my personal portfolio! Here you'll find information about my journey,
 
 ## 📖 About Me
 
-I’m Vinicius Sousa de Andrade, a technology enthusiast with a passion for protecting systems and networks against cyber threats. My mission is to create safer digital environments through best practices, innovative solutions, and continuous learning.
+My name is Vinicius and I am a technology enthusiast focused on Computer Networks and Cybersecurity. I currently work as an Infrastructure Analyst with a focus on networks. I am specializing and studying to obtain CCNA certification. In this repository, I will publish some of the network labs I perform during my studies, as well as some cybersecurity labs that I intend to develop and study.
 
 ---
 
@@ -16,20 +16,24 @@ I’m Vinicius Sousa de Andrade, a technology enthusiast with a passion for prot
 - Work In Progress 🛠️
 
 ### Networking
-- Configuration and management of switches and routers (Cisco, Mikrotik)
-- Network protocols: TCP/IP, BGP, OSPF, VLANs, NAT
-- Firewalls and access control (pfSense, IPTables)
+- Configuration and management of switches and routers (Cisco, Mikrotik, ArubaOS and Dell)
+- Network protocols: TCP/IP, BGP, OSPF, VLANs, NAT, and so one.
+- Firewalls and access control (pfSense, Sophos, Fortigate, IPTables)
 - **Wi-Fi**: Wi-Fi 4 (802.11n), Wi-Fi 5 (802.11ac), Wi-Fi 6 (802.11ax).
 
 ### Tools and Technologies
-- Wireshark, Zabbix, NetBox, Grafana
-- SIEM tools (Graylog)
-- Docker, Virtualization (VMware, VirtualBox)
-- Linux (Hardening and administration)
+Experience in:
+- Wireshark, Zabbix, NetBox, Grafana.
+- Syslog tool with ElasticSearch.
+- Virtualization with VMware, VirtualBox, HyperV and Proxmox.
+- Networking Virutalization Simulators: Eve-NG and Cisco Packet Tracer.
+- Linux (Hardening and administration).
 
 ---
 
 ## 📂 Projects
+
+in progress....
 
 <!--
 ### 🔒 [Project Name 1]
